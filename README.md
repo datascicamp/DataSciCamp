@@ -5,8 +5,10 @@
   </a>
   <br>
   <br>
-    <h1>Data Science Challenge / Competition Deadlines </h1>
+    <h1>:beer: DataSciCamp :beer:</h1>
+    <h2>Data Science Challenge / Competition</h2>
   <p>
+      <h3>Features</h3>
       <li>A collection of popular Data Science Challenges/Competitions</li>
       <li>Countdown timers to keep track of the entry deadlines.</li>
     <br><a href="https://www.datascicamp.com">DataSciCamp.com</a>
