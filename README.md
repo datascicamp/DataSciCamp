@@ -22,7 +22,7 @@
 
 ---
 
-> ###### [Description](#description) | [How to Contribute](#how-to-contribute) | [To-Do](#to-do) | [Feature Requests](#feature-requests)
+> ###### [Description](#description) | [How to Contribute](#how-to-contribute) | [To-Do](#to-do) | [Feature Requests](#feature-requests)| [FAQ](#faq) | [Acknowledgments & other useful listings](#acknowledgments-and-other-useful-listings) | [Stargazers over time](#stargazers-over-time) | [License](#license)
 
 ---
 
@@ -74,4 +74,42 @@ Help us imporve DataSciCamp!
 [![Feature Requests](https://cloud.githubusercontent.com/assets/390379/10127973/045b3a96-6560-11e5-9b20-31a2032956b2.png)](http://feathub.com/iphysresearch/DataSciComp)
 
 [![Feature Requests](http://feathub.com/iphysresearch/DataSciComp?format=svg)](http://feathub.com/iphysresearch/DataSciComp)
+
+
+## FAQ
+
+- Where is the archived Repo of past static site?
+  - see [iphysresearch/DataSciComp](https://github.com/iphysresearch/DataSciComp) 
+- Where is the last `markdown` version?
+  - see [README_old.md](https://github.com/iphysresearch/DataSciComp/blob/master/README_old.md)
+- 第一次打开站点发现所有赛题显示不正常，看到满眼 `Entry Deadline:` 的话，请科学上网后再试一次:joy: 。
+- 如果还有某种页面显示不正常的问题，请清空 cookies 和缓存再试一次:sob: 。
+
+
+
+## Acknowledgments and other useful listings
+
+- [Flask](http://flask.pocoo.org) - *a microframework for Python based on Werkzeug, Jinja 2 and good intentions.*
+- Thanks to Abhishek Das for building the original site, [ai-deadlin.es](http://aideadlin.es)!
+- Thanks to [W3school.com.cn](http://www.w3school.com.cn), [w3schools.com](https://www.w3schools.com/), [CODEPLY](https://www.codeply.com) and [Bootstrap](https://bootstrapdocs.com/v3.3.6/docs/css/) for HTML/CSS/JScript which helped me *my first* design experience.
+- [geodeadlin.es](http://geodeadlin.es/) by @LukasMosser
+- [neuro-deadlines](https://github.com/tbryn/neuro-deadlines) by @tbryn
+- [ai-challenge-deadlines](https://github.com/dieg0as/ai-challenge-deadlines) by @dieg0as
+- [2018-2019 International Conferences in AI, CV, DM, NLP and Robotics](https://jackietseng.github.io/conference_call_for_paper/2018-2019-conferences-with-ccf.html) by @JackieTseng
+- [CV-oriented ai-deadlines (with an emphasis on medical images)](https://creedai.github.io/ai-deadlines/) by @duducheng
+- [A searchable compilation of Kaggle past solutions](http://ndres.me/kaggle-past-solutions/) by @[EliotAndres](https://github.com/EliotAndres)
+- [Data competition Top Solution 数据竞赛top解决方案开源整理](https://github.com/Smilexuhc/Data-Competition-TopSolution) by @[Smilexuhc](https://github.com/Smilexuhc)
+- [Chinese Data Competitions' Solutions | CDCS 中国数据竞赛优胜解集锦](https://github.com/geekinglcq/CDCS) by @[geekinglcq](https://github.com/geekinglcq)
+- [ApacheCN 中文开源组织](http://www.apachecn.org) | 专注于优秀项目维护的开源组织 [[Github](https://github.com/apachecn), [Kaggle 项目实战（教程）](https://github.com/apachecn/kaggle)]
+
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starcharts.herokuapp.com/datascicamp/WelcomePage.svg)](https://starcharts.herokuapp.com/datascicamp/WelcomePage)
+
+
+
+
+## License
 
