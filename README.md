@@ -22,10 +22,13 @@
 
 ---
 
+> ###### [Description](#description) | [How to Contribute](#how-to-Contribute)
+
+---
 
 ## Description
 
-- Topics: `Data Mining` / `Computer Vision` / `Natural Language Processing` / `Reinforcement Learning/Robotics` / `Speech/Signal Proccessing`
+- Topics: 
 
   - `Data Mining` (DM): Usually Structured data or tabular/spreadsheet, with columns and rows that clearly define its attributes.
   - `Computer Vision` (CV): Including image/video processing with matrix/arrays as data structures.
@@ -37,4 +40,14 @@
 - `Rewards filter` tags show you the challenges/competitions offered prizes. 
 - The Countdowns to **ENTRY DEADLINE** with respect to visitor's local time with time zone support.
 - `Prize` for total prize.
+
+
+## How to Contribute
+
+
+- Please **post issues** if you find any difficulty or inconvenience of experience, if you encounter bugs or issues on the website. Any feedbacks are welcome.
+
+- To add/update a challenge, please sign up with your email address and then contribute!
+
+- A WeChat group (`DataSciCamp 核心开发交流群`) have been created.
 
