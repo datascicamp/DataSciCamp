@@ -22,7 +22,7 @@
 
 ---
 
-> ###### [Description](#description) | [How to Contribute](#how-to-Contribute)
+> ###### [Description](#description) | [How to Contribute](#how-to-contribute) | [To-Do](#to-do) | [Feature Requests](#feature-requests)
 
 ---
 
@@ -37,7 +37,7 @@
   - `Reinforcement Learning/Robotics` (RL): Using the concepts of agents or environments.
 
 
-- `Rewards filter` tags show you the challenges/competitions offered prizes. 
+- `Rewards filter` tags show you the challenges/competitions offered prizes, or any bonus. 
 - The Countdowns to **ENTRY DEADLINE** with respect to visitor's local time with time zone support.
 - `Prize` for total prize.
 
@@ -50,4 +50,28 @@
 - To add/update a challenge, please sign up with your email address and then contribute!
 
 - A WeChat group (`DataSciCamp 核心开发交流群`) have been created.
+
+
+## To-Do
+
+- [x] 双语化？
+- [x] Add subscription / notification?
+- [ ] Add past challenges/competitions.（增加历史赛题集锦）
+- [ ] Add contributor ranking. （赛题贡献者排行榜）
+- [ ] Add socialization system. （社交化评论系统）
+- [x] Upgrade to a dynamic site. （升级成动态站点）
+- [x] A more handy way to add/update by any visitors.（更方便的表单填写实现赛题增加/更新）
+- [ ] Auto-update infos by crawling target site.（定时爬虫监控目标站点的赛题信息更新）
+- [ ] Data analysis.（数据分析报告）
+
+
+## Feature Requests
+
+Help us imporve DataSciCamp!
+
+如果你还想 DataSciCamp 支持新的特性和功能，请使用 [FeatHub](https://feathub.com/iphysresearch/DataSciComp) 进行投票，我们将综合考虑投票结果等因素来确定开发的优先级。
+
+[![Feature Requests](https://cloud.githubusercontent.com/assets/390379/10127973/045b3a96-6560-11e5-9b20-31a2032956b2.png)](http://feathub.com/iphysresearch/DataSciComp)
+
+[![Feature Requests](http://feathub.com/iphysresearch/DataSciComp?format=svg)](http://feathub.com/iphysresearch/DataSciComp)
 
