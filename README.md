@@ -5,7 +5,7 @@
   </a>
   <br>
   <br>
-    <h2>Data Science Challenge / Competition</h2>
+    <h2>DataSciCamp — Data Science Challenge / Competition Deadlines</h2>
   <p>
       <li>A collection of popular Data Science Challenges/Competitions</li>
       <li>Countdown timers to keep track of the entry deadlines.</li>
@@ -22,7 +22,7 @@
 
 ---
 
-> ###### [Description](#description) | [How to Contribute](#how-to-contribute) | [To-Do](#to-do) | [Feature Requests](#feature-requests)| [FAQ](#faq) | [Acknowledgments & other useful listings](#acknowledgments-and-other-useful-listings) | [Stargazers over time](#stargazers-over-time) | [License](#license)
+> ###### [Description](#description) | [How to Contribute](#how-to-contribute) | [To-Do](#to-do) | [Feature Requests](#feature-requests)| [FAQ](#faq) | [Techniques we used](#techniques-we-used) |  [Acknowledgments & other useful listings](#acknowledgments-and-other-useful-listings) | [Stargazers over time](#stargazers-over-time) | [License](#license)
 
 ---
 
@@ -86,6 +86,9 @@ Help us imporve DataSciCamp!
 - 如果还有某种页面显示不正常的问题，请清空 cookies 和缓存再试一次:sob: 。
 
 
+## Techniques we used
+
+- Keywords: Python, Flask, NoSQL, Docker, Microservice Architecture
 
 ## Acknowledgments and other useful listings
 
