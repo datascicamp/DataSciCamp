@@ -49,7 +49,7 @@
 
 - To add/update a challenge, please sign up with your email address and then contribute!
 
-- A WeChat group (`DataSciCamp 核心开发交流群`) have been created.
+- A WeChat group (`DataSciCamp 核心开发交流群`) have been created. If you want to know/develop something on this project or if you need some kind of guaranteed support or business support, you can contact me on WeChat(herb112358) and say `DataSciCamp`.
 
 
 ## To-Do
